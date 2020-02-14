@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "5bed744b-5899-4965-9404-4776464d03bb",
+            "Value": {
+                "id": "2168b290-352e-4e91-a951-805db8a22cf7",
+                "resourcePath": "sounds\\Roblox_Death_Sound___OOF_Sound_Effect__1_\\Roblox_Death_Sound___OOF_Sound_Effect__1_.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5c7e625b-b8d2-4bda-9095-58167ca2d57e",
             "Value": {
                 "id": "180c7e59-6df2-469d-acc7-459a520dc335",
@@ -167,11 +175,27 @@
             }
         },
         {
+            "Key": "84e73f85-a0ee-4736-8428-0f3e050f2bb2",
+            "Value": {
+                "id": "392a560a-6532-4041-b8c2-0d1d305e3c13",
+                "resourcePath": "sounds\\We_ll_be_right_back_Sound_Effect_meme\\We_ll_be_right_back_Sound_Effect_meme.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "85f7d185-bdcd-4c07-a4ee-8a4bf1c1b776",
             "Value": {
                 "id": "82ed2bb9-dc75-43bd-bf14-15737c9744cb",
                 "resourcePath": "views\\85f7d185-bdcd-4c07-a4ee-8a4bf1c1b776.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "88094295-cd03-40b0-a207-9b22b5fe9077",
+            "Value": {
+                "id": "4dfcfd3f-75ac-4323-adfe-2227ee5042b7",
+                "resourcePath": "sounds\\Quack_Sound_Effect\\Quack_Sound_Effect.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -271,6 +295,14 @@
             }
         },
         {
+            "Key": "e01beaed-8e46-47ed-bfcb-1ca5be49e346",
+            "Value": {
+                "id": "efefd67b-aa3d-4233-abcb-ed36d3103bea",
+                "resourcePath": "sounds\\Pew__Sound_Effect__Pew_Pew_Pew_\\Pew__Sound_Effect__Pew_Pew_Pew_.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e2e67f05-b61d-4bd3-9389-15618e610e05",
             "Value": {
                 "id": "6be8b1ab-a9ba-40b6-836c-06f52fc6b3bc",
@@ -308,6 +340,14 @@
                 "id": "cd2581db-c161-4bee-a571-548ca1c56aa7",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f59199e3-1616-491a-a3f0-8965020353d6",
+            "Value": {
+                "id": "b4ad0773-64c1-4384-a666-2f3f61016297",
+                "resourcePath": "sounds\\QUEEN_WEARETHECHAMPIONS_ver_KAZOO_\\QUEEN_WEARETHECHAMPIONS_ver_KAZOO_.yy",
+                "resourceType": "GMSound"
             }
         },
         {
